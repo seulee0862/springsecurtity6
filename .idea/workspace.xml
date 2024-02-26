@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/config/ProjectSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/BalanceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/BalanceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/CardsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/CardsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/LoansController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/LoansController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/NoticeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/NoticeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,23 +46,34 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.3/59db74eb4196885bb5a149417ab1ab51dc9b6952/spring-boot-autoconfigure-3.2.3.jar!/org/springframework/boot/autoconfigure/security/servlet/SpringBootWebSecurityConfiguration.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/3.2.3/spring-boot-autoconfigure-3.2.3.jar!/org/springframework/boot/autoconfigure/security/servlet/SpringBootWebSecurityConfiguration.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/DefaultSecurityFilterChain.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/FilterChainProxy.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/FilterInvocation.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/authentication/AnonymousAuthenticationFilter.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/authentication/preauth/PreAuthenticatedAuthenticationProvider.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/authentication/preauth/websphere/DefaultWASUsernameAndGroupsExtractor.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/firewall/CompositeRequestRejectedHandler.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/firewall/DefaultHttpFirewall.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/firewall/DefaultRequestRejectedHandler.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/savedrequest/RequestCacheAwareFilter.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/servletapi/SecurityContextHolderAwareRequestFilter.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.4/spring-web-6.1.4.jar!/org/springframework/web/filter/OncePerRequestFilter.class" root0="SKIP_INSPECTION" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -58,11 +83,22 @@
         <option name="mavenHome" value="Use Maven wrapper" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2cms3oxQho4rYIW0tcvHXZxokTb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,9 +111,11 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.BackendApplication (1).executor": "Run",
     "Spring Boot.SpringsecuritybasicApplication.executor": "Run",
     "Spring Boot.Testmodule3Application.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "section2",
     "jdk.selected.JAVA_MODULE": "azul-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/iseunghyeon/Documents/intellij/course/springsecuritybasic",
@@ -90,10 +128,18 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.seulee.springsecuritybasic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.seulee.controller" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -103,14 +149,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Testmodule3Application">
-    <configuration name="SpringsecuritybasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="BackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="springsecuritybasic" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.springsecuritybasic.SpringsecuritybasicApplication" />
+      <module name="springsecsection2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.seulee.springsecuritybasic.*" />
+          <option name="PATTERN" value="org.seulee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,23 +164,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testmodule3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="testmodule3" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.testmodule3.Testmodule3Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestmoduleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="testmodule.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.testmodule.TestmoduleApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringsecuritybasicApplication" />
+        <item itemvalue="Spring Boot.BackendApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +184,9 @@
       <workItem from="1708741816972" duration="1280000" />
       <workItem from="1708970605835" duration="1066000" />
       <workItem from="1708971685037" duration="1157000" />
-      <workItem from="1708972895001" duration="1129000" />
+      <workItem from="1708972895001" duration="3371000" />
+      <workItem from="1708977328492" duration="2568000" />
+      <workItem from="1708985329802" duration="844000" />
     </task>
     <servers />
   </component>
@@ -166,6 +200,10 @@
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/access/intercept/AuthorizationFilter.class</url>
           <line>41</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.3/59db74eb4196885bb5a149417ab1ab51dc9b6952/spring-boot-autoconfigure-3.2.3.jar!/org/springframework/boot/autoconfigure/security/reactive/ReactiveSecurityAutoConfiguration.class</url>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
