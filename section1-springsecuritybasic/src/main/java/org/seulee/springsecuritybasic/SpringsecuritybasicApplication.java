@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 //@ComponentScan("org.seulee.springsecuritybasic.controller")
-public class SpringsecuritybasicApplication {
+public class `SpringsecuritybasicApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringsecuritybasicApplication.class, args);
