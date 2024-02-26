@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/config/ProjectSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/BalanceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/BalanceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/CardsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/CardsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/ContactController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/LoansController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/LoansController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/NoticeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/controller/NoticeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/src/main/java/org/seulee/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection2/target/classes/org/seulee/config/ProjectSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection2/target/classes/org/seulee/config/ProjectSecurityConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +175,7 @@
       <workItem from="1708971685037" duration="1157000" />
       <workItem from="1708972895001" duration="3371000" />
       <workItem from="1708977328492" duration="2568000" />
-      <workItem from="1708985329802" duration="844000" />
+      <workItem from="1708985329802" duration="1444000" />
     </task>
     <servers />
   </component>
