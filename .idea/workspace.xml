@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springsecsection5/src/main/java/org/seulee/config/EazyBankUsernamePwdAuthenticationProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/src/main/java/org/seulee/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection4/src/main/java/org/seulee/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/BackendApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/config/EazyBankUserDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/config/ProjectSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/controller/AccountController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/controller/BalanceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/controller/CardsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/controller/ContactController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/controller/LoansController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/controller/NoticeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/model/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection4/target/classes/org/seulee/repository/CustomerRepository.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,10 +101,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.BackendApplication (1).executor": "Run",
+    "Spring Boot.BackendApplication (2).executor": "Run",
     "Spring Boot.BackendApplication.executor": "Run",
     "Spring Boot.SpringsecuritybasicApplication.executor": "Run",
     "Spring Boot.Testmodule3Application.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "section5",
     "jdk.selected.JAVA_MODULE": "azul-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/iseunghyeon/Documents/intellij/course/springsecuritybasic",
@@ -156,7 +139,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BackendApplication (1)">
+  <component name="RunManager" selected="Spring Boot.BackendApplication (2)">
     <configuration name="BackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="springsecsection4" />
