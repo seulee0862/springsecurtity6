@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection3/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +101,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.BackendApplication (1).executor": "Run",
+    "Spring Boot.BackendApplication (2).executor": "Run",
     "Spring Boot.BackendApplication.executor": "Run",
     "Spring Boot.SpringsecuritybasicApplication.executor": "Run",
     "Spring Boot.Testmodule3Application.executor": "Run",
-    "git-widget-placeholder": "section4",
+    "git-widget-placeholder": "section5",
     "jdk.selected.JAVA_MODULE": "azul-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/iseunghyeon/Documents/intellij/course/springsecuritybasic",
@@ -144,10 +139,18 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BackendApplication (1)">
+  <component name="RunManager" selected="Spring Boot.BackendApplication (2)">
     <configuration name="BackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="springsecsection4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springsecsection5" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -208,6 +211,11 @@
           <url>file://$PROJECT_DIR$/springsecsection3/src/main/java/org/seulee/config/EazyBankUserDetails.java</url>
           <line>32</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.2.2/spring-security-core-6.2.2-sources.jar!/org/springframework/security/authentication/AuthenticationProvider.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
