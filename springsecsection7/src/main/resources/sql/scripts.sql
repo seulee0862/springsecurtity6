@@ -195,3 +195,9 @@ VALUES (1, 'ROLE_USER');
 
 INSERT INTO `authorities` (`customer_id`, `name`)
 VALUES (1, 'ROLE_ADMIN');
+
+delete from `authorities` where customer_id = 1;
+
+insert into `authorities` (`customer_id`, `name`) values (1, 'ROLE_USER');
+insert into `authorities` (`customer_id`, `name`) values (1, 'ROLE_ADMIN');
+
