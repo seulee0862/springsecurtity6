@@ -11,6 +11,7 @@
         <module name="springsecsection4" />
         <module name="springsecsection5" />
         <module name="springsecsection6" />
+        <module name="springsecsection7" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +29,7 @@
       <module name="springsecsection4" options="" />
       <module name="springsecsection5" options="-parameters" />
       <module name="springsecsection6" options="-parameters" />
+      <module name="springsecsection7" options="-parameters" />
       <module name="testmodule3" options="-parameters" />
     </option>
   </component>
