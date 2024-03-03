@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.seulee</groupId>
-    <artifactId>setting1/springsecuritybasic</artifactId>
+    <artifactId>springsecuritybasic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>setting1/springsecuritybasic</name>
     <description>setting1/springsecuritybasic</description>

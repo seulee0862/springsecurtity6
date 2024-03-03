@@ -13,11 +13,11 @@
         <module name="springsecsection6" />
         <module name="springsecsection7" />
         <module name="springsecsection8" />
+        <module name="springsecsection10" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="section1-springsecuritybasic" target="17" />
-      <module name="springsecsection10" target="19" />
       <module name="springsecuritybasic" target="17" />
       <module name="testmodule" target="17" />
       <module name="testmodule3" target="17" />
