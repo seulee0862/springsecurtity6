@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection10/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection10/src/main/java/com/eazybytes/controller/ContactController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection10/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection10/src/main/java/com/eazybytes/controller/LoansController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection10/src/main/java/com/eazybytes/repository/LoanRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection10/src/main/java/com/eazybytes/repository/LoanRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +126,7 @@
     "project.structure.side.proportion": "0.2",
     "run.configurations.included.in.services": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "240bfe2e4f0fc73f14ed10f9c7c45b2b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -144,7 +147,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EazyBankBackendApplication">
+  <component name="RunManager" selected="Spring Boot.SpringsecOauth2GitHubApplication (1)">
     <configuration name="BackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springsecsection5" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
@@ -208,6 +211,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringsecOauth2GitHubApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecOAUTH2GitHub" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.springsecOAUTH2GitHub.SpringsecOauth2GitHubApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecOauth2GitHubApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecOAUTH2GitHub" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.SpringsecOauth2GitHubApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.BackendApplication" />
@@ -236,7 +253,8 @@
       <workItem from="1709143188207" duration="9974000" />
       <workItem from="1709170729703" duration="298000" />
       <workItem from="1709175503441" duration="3103000" />
-      <workItem from="1709441502317" duration="3363000" />
+      <workItem from="1709441502317" duration="6318000" />
+      <workItem from="1709472639837" duration="1021000" />
     </task>
     <servers />
   </component>
