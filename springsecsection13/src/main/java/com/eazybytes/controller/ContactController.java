@@ -1,19 +1,17 @@
 package com.eazybytes.controller;
 
-import java.sql.Date;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-
+import com.eazybytes.model.Contact;
+import com.eazybytes.repository.ContactRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PostFilter;
-import org.springframework.security.access.prepost.PreFilter;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.eazybytes.model.Contact;
-import com.eazybytes.repository.ContactRepository;
+import java.sql.Date;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 
 @RestController
 public class ContactController {
@@ -22,16 +20,15 @@ public class ContactController {
     private ContactRepository contactRepository;
 
     @PostMapping("/contact")
-    // @PreFilter("filterObject.concatName != 'Test'")
-    @PostFilter("filterObject.concatName != 'Test'")
+    /*@PreFilter("filterObject.contactName != 'Test'")*/
+    @PostFilter("filterObject.contactName != 'Test'")
     public List<Contact> saveContactInquiryDetails(@RequestBody List<Contact> contacts) {
         Contact contact = contacts.get(0);
         contact.setContactId(getServiceReqNumber());
         contact.setCreateDt(new Date(System.currentTimeMillis()));
         contact = contactRepository.save(contact);
-        List<Contact> returnContacts = new ArrayList<>();
+        List<Contact> returnContacts = new ArrayList();
         returnContacts.add(contact);
-
         return returnContacts;
     }
 

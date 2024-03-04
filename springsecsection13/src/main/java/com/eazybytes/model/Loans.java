@@ -1,9 +1,9 @@
 package com.eazybytes.model;
 
-import java.sql.Date;
-
 import jakarta.persistence.*;
 import org.hibernate.annotations.GenericGenerator;
+
+import java.sql.Date;
 
 @Entity
 @Table(name="loans")
