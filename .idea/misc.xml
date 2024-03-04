@@ -16,8 +16,12 @@
         <option value="$PROJECT_DIR$/springsecsection6/pom.xml" />
         <option value="$PROJECT_DIR$/springsecsection7/pom.xml" />
         <option value="$PROJECT_DIR$/springsecsection8/pom.xml" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/springsecsection9/pom.xml" />
+=======
         <option value="$PROJECT_DIR$/springsecsection10/pom.xml" />
         <option value="$PROJECT_DIR$/springsecOAUTH2GitHub/pom.xml" />
+>>>>>>> main
       </list>
     </option>
     <option name="ignoredFiles">
