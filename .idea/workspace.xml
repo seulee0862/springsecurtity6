@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springsecsection9/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection9/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springsecsection9/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection9/target/classes/application.properties" afterDir="false" />
     </list>
+=======
+    <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="" />
+>>>>>>> main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.3/59db74eb4196885bb5a149417ab1ab51dc9b6952/spring-boot-autoconfigure-3.2.3.jar!/org/springframework/boot/autoconfigure/security/servlet/SpringBootWebSecurityConfiguration.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/3.2.3/spring-boot-autoconfigure-3.2.3.jar!/org/springframework/boot/autoconfigure/security/servlet/SpringBootWebSecurityConfiguration.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/DefaultSecurityFilterChain.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.2.2/spring-security-web-6.2.2.jar!/org/springframework/security/web/FilterChainProxy.class" root0="SKIP_INSPECTION" />
@@ -72,6 +75,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -79,7 +83,6 @@
         <option name="downloadAnnotationsAutomatically" value="true" />
         <option name="downloadDocsAutomatically" value="true" />
         <option name="downloadSourcesAutomatically" value="true" />
-        <option name="workspaceImportForciblyTurnedOn" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -87,13 +90,14 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2cms3oxQho4rYIW0tcvHXZxokTb" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
@@ -125,6 +129,41 @@
     &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.BackendApplication (1).executor": "Run",
+    "Spring Boot.BackendApplication (2).executor": "Run",
+    "Spring Boot.BackendApplication (3).executor": "Run",
+    "Spring Boot.BackendApplication (4).executor": "Run",
+    "Spring Boot.BackendApplication.executor": "Run",
+    "Spring Boot.SpringsecuritybasicApplication.executor": "Run",
+    "Spring Boot.Testmodule3Application.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "section8",
+    "jdk.selected.JAVA_MODULE": "azul-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/iseunghyeon/Documents/intellij/course/springsecuritybasic",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "240bfe2e4f0fc73f14ed10f9c7c45b2b",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> main
   }
 }</component>
   <component name="RecentsManager">
@@ -147,10 +186,56 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringsecOauth2GitHubApplication (1)">
+    <configuration name="BackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecsection5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecsection6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecsection3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecsection7" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecsection2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecsection4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+<<<<<<< HEAD
       <module name="springsecsection9" />
+=======
+      <module name="springsecsection8" />
+>>>>>>> main
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.seulee.BackendApplication" />
       <extension name="coverage">
         <pattern>
@@ -158,6 +243,27 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EazyBankBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecsection10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.EazyBankBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecOauth2GitHubApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecOAUTH2GitHub" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.springsecOAUTH2GitHub.SpringsecOauth2GitHubApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecOauth2GitHubApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecOAUTH2GitHub" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.SpringsecOauth2GitHubApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,12 +296,22 @@
       <workItem from="1709143188207" duration="9974000" />
       <workItem from="1709170729703" duration="298000" />
       <workItem from="1709175503441" duration="3103000" />
+<<<<<<< HEAD
       <workItem from="1709574160641" duration="134000" />
+=======
+      <workItem from="1709441502317" duration="6318000" />
+      <workItem from="1709472639837" duration="1439000" />
+>>>>>>> main
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

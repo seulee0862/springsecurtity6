@@ -13,7 +13,12 @@
         <module name="springsecsection6" />
         <module name="springsecsection7" />
         <module name="springsecsection8" />
+<<<<<<< HEAD
         <module name="springsecsection9" />
+=======
+        <module name="springsecsection10" />
+        <module name="springsecOAUTH2GitHub" />
+>>>>>>> main
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,14 +31,21 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="section1-springsecuritybasic" options="-parameters" />
-      <module name="springsecsection2" options="" />
+      <module name="springsecOAUTH2GitHub" options="-parameters" />
+      <module name="springsecsection10" options="-parameters" />
+      <module name="springsecsection2" options="-parameters" />
       <module name="springsecsection3" options="-parameters" />
-      <module name="springsecsection4" options="" />
+      <module name="springsecsection4" options="-parameters" />
       <module name="springsecsection5" options="-parameters" />
       <module name="springsecsection6" options="-parameters" />
+<<<<<<< HEAD
       <module name="springsecsection7" options="" />
       <module name="springsecsection8" options="" />
       <module name="springsecsection9" options="-parameters" />
+=======
+      <module name="springsecsection7" options="-parameters" />
+      <module name="springsecsection8" options="-parameters" />
+>>>>>>> main
       <module name="testmodule3" options="-parameters" />
     </option>
   </component>
