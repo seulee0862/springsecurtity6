@@ -5,45 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5338944-d1f6-44d4-a610-ddaddb392b69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springsecsection9/src/main/java/org/seulee/constants/ApplicationConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springsecsection9/src/main/java/org/seulee/constants/SecurityConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springsecsection9/src/main/java/org/seulee/filter/JWTTokenGeneratorFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springsecsection9/src/main/java/org/seulee/filter/JWTTokenValidatorFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/BackendApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/config/EazyBankUsernamePwdAuthenticationProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/config/ProjectSecurityConfig$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/config/ProjectSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/controller/AccountController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/controller/BalanceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/controller/CardsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/controller/ContactController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/controller/LoansController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/controller/NoticesController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/filter/AuthoritiesLoggingAfterFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/filter/AuthoritiesLoggingAtFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/filter/CsrfCookieFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/filter/RequestValidationBeforeFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/AccountTransactions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/Accounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/Authority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/Cards.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/Contact.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/Loans.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/model/Notice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/repository/AccountTransactionsRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/repository/AccountsRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/repository/CardsRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/repository/ContactRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/repository/CustomerRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/repository/LoanRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springsecsection8/target/classes/org/seulee/repository/NoticeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection9/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection9/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecsection9/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springsecsection9/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,39 +94,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.BackendApplication (1).executor": "Run",
-    "Spring Boot.BackendApplication (2).executor": "Run",
-    "Spring Boot.BackendApplication (3).executor": "Run",
-    "Spring Boot.BackendApplication (4).executor": "Run",
-    "Spring Boot.BackendApplication.executor": "Run",
-    "Spring Boot.SpringsecuritybasicApplication.executor": "Run",
-    "Spring Boot.Testmodule3Application.executor": "Run",
-    "git-widget-placeholder": "section8",
-    "jdk.selected.JAVA_MODULE": "azul-17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/iseunghyeon/Documents/intellij/course/springsecuritybasic/springsecsection8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BackendApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BackendApplication (2).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BackendApplication (3).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BackendApplication (4).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringsecuritybasicApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Testmodule3Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;section8&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/iseunghyeon/Documents/intellij/course/springsecuritybasic/springsecsection8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.seulee.springsecuritybasic" />
@@ -225,6 +190,7 @@
       <workItem from="1709143188207" duration="9974000" />
       <workItem from="1709170729703" duration="298000" />
       <workItem from="1709175503441" duration="3103000" />
+      <workItem from="1709574160641" duration="134000" />
     </task>
     <servers />
   </component>
